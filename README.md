@@ -1,2 +1,4 @@
-# Optimization-Methods-in-Finance
-## Took the course during Fall 2019 Quarter at the University of Washington with Professor Steve Murray
+# Optimization-Methods-in-Finance Fall 2019 @ University of Washington
+## Overview
+In this course we investigate mathematical models representing financial decision making problems. We learn to formulate and solve models using software to identify optimal solutions as well as perform sensitivity analysis on recommended solutions.
+
